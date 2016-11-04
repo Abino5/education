@@ -30,12 +30,12 @@
     <meta name="robots" content="" />
 
     
-            <link rel="apple-touch-icon" sizes="114x114" href="Assets/icons/airtec/apple-touch-icon-114x114-precomposed.png" />
-        <link rel="apple-touch-icon" sizes="144x144" href="Assets/icons/airtec/apple-touch-icon-144x144-precomposed.png" />
-        <link rel="apple-touch-icon" sizes="57x57" href="Assets/icons/airtec/apple-touch-icon-57x57-precomposed.png" />
-        <link rel="apple-touch-icon" sizes="72x72" href="Assets/icons/airtec/apple-touch-icon-72x72-precomposed.png" />
-        <link rel="apple-touch-icon" href="Assets/icons/airtec/apple-touch-icon-precomposed.png" />
-        <link rel="shortcut icon" href="Assets/icons/airtec/favicon.ico" />
+            <link rel="apple-touch-icon" sizes="114x114" href="assets/icons/airtec/apple-touch-icon-114x114-precomposed.png" />
+        <link rel="apple-touch-icon" sizes="144x144" href="assets/icons/airtec/apple-touch-icon-144x144-precomposed.png" />
+        <link rel="apple-touch-icon" sizes="57x57" href="assets/icons/airtec/apple-touch-icon-57x57-precomposed.png" />
+        <link rel="apple-touch-icon" sizes="72x72" href="assets/icons/airtec/apple-touch-icon-72x72-precomposed.png" />
+        <link rel="apple-touch-icon" href="assets/icons/airtec/apple-touch-icon-precomposed.png" />
+        <link rel="shortcut icon" href="assets/icons/airtec/favicon.ico" />
 
 
 

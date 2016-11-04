@@ -30,8 +30,8 @@
         <meta name="robots" content="" />
 
 
-              
-            <link rel="shortcut icon" href="Assets/icons/airtec/favicon.ico" />
+
+            <link rel="shortcut icon" href="assets/icons/airtec/favicon.ico" />
 
 
 
