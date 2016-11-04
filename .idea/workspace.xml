@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c2316c8-ae78-4635-84e8-6e8011d7ff35" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/-/media/images/airtechfinallogo205x48.jpg" afterPath="$PROJECT_DIR$/-/media/images/airtechfinallogo205x48.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/css/site.css" afterPath="$PROJECT_DIR$/Assets/css/site.css" />
     </list>
     <ignored path="Ahmad.iws" />
@@ -93,12 +92,13 @@
               <caret line="10921" column="0" selection-start-line="10921" selection-start-column="0" selection-end-line="10921" selection-end-column="0" />
               <folding>
                 <element signature="e#64274#64491#1" expanded="true" />
-                <element signature="e#80668#80885#1" expanded="true" />
-                <element signature="e#83910#84131#1" expanded="true" />
-                <element signature="e#182467#182832#1" expanded="true" />
-                <element signature="e#183126#183631#1" expanded="true" />
-                <element signature="e#183954#184139#1" expanded="true" />
-                <element signature="e#184972#185477#1" expanded="true" />
+                <element signature="e#68669#68862#1" expanded="true" />
+                <element signature="e#80663#80880#1" expanded="true" />
+                <element signature="e#83905#84126#1" expanded="true" />
+                <element signature="e#182462#182827#1" expanded="true" />
+                <element signature="e#183121#183626#1" expanded="true" />
+                <element signature="e#183949#184134#1" expanded="true" />
+                <element signature="e#184967#185472#1" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -290,12 +290,12 @@
       <option name="presentableId" value="Default" />
       <updated>1478246065750</updated>
       <workItem from="1478246067877" duration="12215000" />
-      <workItem from="1478267559092" duration="715000" />
+      <workItem from="1478267559092" duration="1300000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12930000" />
+    <option name="totallyTimeSpent" value="13515000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -392,12 +392,13 @@
           <caret line="10921" column="0" selection-start-line="10921" selection-start-column="0" selection-end-line="10921" selection-end-column="0" />
           <folding>
             <element signature="e#64274#64491#1" expanded="true" />
-            <element signature="e#80668#80885#1" expanded="true" />
-            <element signature="e#83910#84131#1" expanded="true" />
-            <element signature="e#182467#182832#1" expanded="true" />
-            <element signature="e#183126#183631#1" expanded="true" />
-            <element signature="e#183954#184139#1" expanded="true" />
-            <element signature="e#184972#185477#1" expanded="true" />
+            <element signature="e#68669#68862#1" expanded="true" />
+            <element signature="e#80663#80880#1" expanded="true" />
+            <element signature="e#83905#84126#1" expanded="true" />
+            <element signature="e#182462#182827#1" expanded="true" />
+            <element signature="e#183121#183626#1" expanded="true" />
+            <element signature="e#183949#184134#1" expanded="true" />
+            <element signature="e#184967#185472#1" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -460,12 +461,13 @@
           <caret line="10921" column="0" selection-start-line="10921" selection-start-column="0" selection-end-line="10921" selection-end-column="0" />
           <folding>
             <element signature="e#64274#64491#1" expanded="true" />
-            <element signature="e#80668#80885#1" expanded="true" />
-            <element signature="e#83910#84131#1" expanded="true" />
-            <element signature="e#182467#182832#1" expanded="true" />
-            <element signature="e#183126#183631#1" expanded="true" />
-            <element signature="e#183954#184139#1" expanded="true" />
-            <element signature="e#184972#185477#1" expanded="true" />
+            <element signature="e#68669#68862#1" expanded="true" />
+            <element signature="e#80663#80880#1" expanded="true" />
+            <element signature="e#83905#84126#1" expanded="true" />
+            <element signature="e#182462#182827#1" expanded="true" />
+            <element signature="e#183121#183626#1" expanded="true" />
+            <element signature="e#183949#184134#1" expanded="true" />
+            <element signature="e#184967#185472#1" expanded="true" />
           </folding>
         </state>
       </provider>
