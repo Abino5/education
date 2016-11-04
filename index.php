@@ -31,17 +31,17 @@
 
 
 
-            <link rel="shortcut icon" href="assets/icons/airtec/favicon.ico" />
+            <link rel="shortcut icon" href="Assets/icons/airtec/favicon.ico" />
 
 
 
-        <link rel="stylesheet" type="text/css" href="assets/css/site.css" />
+        <link rel="stylesheet" type="text/css" href="Assets/css/site.css" />
 
 
 
 
         <!--[if IE]>
-            <link rel="stylesheet" href="/assets/css/ie.css">
+            <link rel="stylesheet" href="/Assets/css/ie.css">
         <![endif]-->
 
 
@@ -52,7 +52,7 @@
 
 
 
-        <script type="text/javascript" src="assets/js/base.JS"></script>
+        <script type="text/javascript" src="Assets/js/base.JS"></script>
 
 
 
@@ -390,7 +390,7 @@
 
 
 
-        <script type="text/javascript" src="assets/js/vendor/webtrends.js"></script>
+        <script type="text/javascript" src="Assets/js/vendor/webtrends.js"></script>
     <script type="text/javascript">
         var webTrends = new WebTrends();
         webTrends.dcsid = 'dcs0omqdyu5rgwvuoi8wvccmm_4f1s';
@@ -413,8 +413,8 @@
 
 
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-        <script type="text/javascript" src="assets/js/site.JS"></script>
-        <script type="text/javascript" src="assets/js/main.JS"></script>
+        <script type="text/javascript" src="Assets/js/site.JS"></script>
+        <script type="text/javascript" src="Assets/js/main.JS"></script>
 
 
     </body>
