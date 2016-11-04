@@ -2897,7 +2897,7 @@ a.fancybox-video img {
 	text-align:right
 }
 #header .site-nav {
-	background:#fdfdfd;
+	background:#3f9db9;
 	-webkit-box-shadow:0 2px 8px 0 rgba(0,0,0,.25);
 	-moz-box-shadow:0 2px 8px 0 rgba(0,0,0,.25);
 	box-shadow:0 2px 8px 0 rgba(0,0,0,.25);
@@ -2912,7 +2912,7 @@ a.fancybox-video img {
 	float:left;
 	margin:0 0 0 2.5%;
 	max-height: 75px;
-	max-width: 205px;
+	max-width: 177px;
 }
 #header .logo h1 {
 	margin:0
@@ -2937,15 +2937,15 @@ a.fancybox-video img {
 }
 #header .site-nav nav>ul>li>a {
 	display:block;
-	color:#000;
+	color:#FFF;
 	padding:0 32px;
 	text-decoration:none;
-	background:url('data:image/gif;base64,R0lGODdhAgABAPAAAP///93d3SH/C1hNUCBEYXRhWE1QRj94cGFja0RGNDU4QTFCIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjJBQm1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz4ALAAAAAACAAEAAAICDAoAOw==') 0 0 repeat-y;
+	/*! background:url('data:image/gif;base64,R0lGODdhAgABAPAAAP///93d3SH/C1hNUCBEYXRhWE1QRj94cGFja0RGNDU4QTFCIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjJBQm1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz4ALAAAAAACAAEAAAICDAoAOw==') 0 0 repeat-y; */
 	position:relative;
 	z-index:1000
 }
 #header .site-nav nav li:first-child a,#header .site-nav nav li:hover a,#header .site-nav nav li.hover a {
-	background-image:none
+	background-image:none;
 }
 #header .site-nav nav li:hover+li a,#header .site-nav nav li.hover+li a {
 	background-image:none

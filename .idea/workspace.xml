@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c2316c8-ae78-4635-84e8-6e8011d7ff35" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/-/media/images/airtechfinallogo205x48.jpg" afterPath="$PROJECT_DIR$/-/media/images/airtechfinallogo205x48.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/css/site.css" afterPath="$PROJECT_DIR$/Assets/css/site.css" />
     </list>
     <ignored path="Ahmad.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -45,7 +46,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
@@ -85,19 +86,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="site.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="site.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/css/site.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185657">
+            <state relative-caret-position="471">
               <caret line="10921" column="0" selection-start-line="10921" selection-start-column="0" selection-end-line="10921" selection-end-column="0" />
               <folding>
                 <element signature="e#64274#64491#1" expanded="true" />
-                <element signature="e#80660#80877#1" expanded="true" />
-                <element signature="e#83902#84123#1" expanded="true" />
-                <element signature="e#182459#182824#1" expanded="true" />
-                <element signature="e#183118#183623#1" expanded="true" />
-                <element signature="e#183946#184131#1" expanded="true" />
-                <element signature="e#184964#185469#1" expanded="true" />
+                <element signature="e#80668#80885#1" expanded="true" />
+                <element signature="e#83910#84131#1" expanded="true" />
+                <element signature="e#182467#182832#1" expanded="true" />
+                <element signature="e#183126#183631#1" expanded="true" />
+                <element signature="e#183954#184139#1" expanded="true" />
+                <element signature="e#184972#185477#1" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -120,7 +121,6 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/js/site.JS" />
         <option value="$PROJECT_DIR$/Assets/js/main.js" />
-        <option value="$PROJECT_DIR$/Assets/css/site.css" />
         <option value="$PROJECT_DIR$/www_airtecgulf_default.html" />
         <option value="$PROJECT_DIR$/gases.htm" />
         <option value="$PROJECT_DIR$/Assets/js/base.JS" />
@@ -129,6 +129,7 @@
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/assets/css/careers.css" />
         <option value="$PROJECT_DIR$/Assets/css/careers.css" />
+        <option value="$PROJECT_DIR$/Assets/css/site.css" />
       </list>
     </option>
   </component>
@@ -186,6 +187,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="education" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="education" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="education" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="education" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="education" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -257,12 +290,12 @@
       <option name="presentableId" value="Default" />
       <updated>1478246065750</updated>
       <workItem from="1478246067877" duration="12215000" />
-      <workItem from="1478267559092" duration="108000" />
+      <workItem from="1478267559092" duration="715000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12323000" />
+    <option name="totallyTimeSpent" value="12930000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -359,28 +392,12 @@
           <caret line="10921" column="0" selection-start-line="10921" selection-start-column="0" selection-end-line="10921" selection-end-column="0" />
           <folding>
             <element signature="e#64274#64491#1" expanded="true" />
-            <element signature="e#80660#80877#1" expanded="true" />
-            <element signature="e#83902#84123#1" expanded="true" />
-            <element signature="e#182459#182824#1" expanded="true" />
-            <element signature="e#183118#183623#1" expanded="true" />
-            <element signature="e#183946#184131#1" expanded="true" />
-            <element signature="e#184964#185469#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/css/site.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185657">
-          <caret line="10921" column="0" selection-start-line="10921" selection-start-column="0" selection-end-line="10921" selection-end-column="0" />
-          <folding>
-            <element signature="e#64274#64491#1" expanded="true" />
-            <element signature="e#80660#80877#1" expanded="true" />
-            <element signature="e#83902#84123#1" expanded="true" />
-            <element signature="e#182459#182824#1" expanded="true" />
-            <element signature="e#183118#183623#1" expanded="true" />
-            <element signature="e#183946#184131#1" expanded="true" />
-            <element signature="e#184964#185469#1" expanded="true" />
+            <element signature="e#80668#80885#1" expanded="true" />
+            <element signature="e#83910#84131#1" expanded="true" />
+            <element signature="e#182467#182832#1" expanded="true" />
+            <element signature="e#183126#183631#1" expanded="true" />
+            <element signature="e#183954#184139#1" expanded="true" />
+            <element signature="e#184972#185477#1" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -434,6 +451,22 @@
         <state relative-caret-position="306">
           <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/css/site.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="10921" column="0" selection-start-line="10921" selection-start-column="0" selection-end-line="10921" selection-end-column="0" />
+          <folding>
+            <element signature="e#64274#64491#1" expanded="true" />
+            <element signature="e#80668#80885#1" expanded="true" />
+            <element signature="e#83910#84131#1" expanded="true" />
+            <element signature="e#182467#182832#1" expanded="true" />
+            <element signature="e#183126#183631#1" expanded="true" />
+            <element signature="e#183954#184139#1" expanded="true" />
+            <element signature="e#184972#185477#1" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
