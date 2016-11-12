@@ -120,7 +120,7 @@
                             <h3>Education First Scholarships</h3>
                             <p>We provide college scholarships and coaching to students attending high schools with historically low percentages of college applicants.</p>
 
-    <a href='case-studies/scholarships.php' class='pane-cta' target='Active Browser' >                                    <span class="text">Check Out our scholarships</span>
+    <a href='scholarships.php' class='pane-cta' target='Active Browser' >                                    <span class="text">Check Out our scholarships</span>
                                         <span class="carrot">&gt;</span>
     </a>
                         </div>
