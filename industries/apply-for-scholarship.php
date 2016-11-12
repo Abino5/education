@@ -295,7 +295,7 @@
                 <a href="water-and-wastewater-treatment.php" title="Water &amp; Wastewater Treatment" class="">Water & Wastewater Treatment</a>
             </li>
             <li>
-                <a href="welding-and-metal-fabrication.php" title="Welding &amp; Metal Fabrication" class="">Welding & Metal Fabrication</a>
+                <a href="learn-how-we-can-help.php" title="Welding &amp; Metal Fabrication" class="">Welding & Metal Fabrication</a>
             </li>
     </ul>
 </div>
@@ -532,7 +532,7 @@ Overview                </a>
                 <a href="water-and-wastewater-treatment.php" title="Water &amp; Wastewater Treatment" class="with_arrow">Water & Wastewater Treatment</a>
             </li>
             <li>
-                <a href="welding-and-metal-fabrication.php" title="Welding &amp; Metal Fabrication" class="with_arrow">Welding & Metal Fabrication</a>
+                <a href="learn-how-we-can-help.php" title="Welding &amp; Metal Fabrication" class="with_arrow">Welding & Metal Fabrication</a>
             </li>
     </ul>
 
@@ -711,7 +711,7 @@ Applications                </a>
     <div>
         <h2></h2>
         <p>See how other industrial applications apply to the automotive fabrication industry.</p>
-<p><a href="welding-and-metal-fabrication.php" target="_self" class="with_arrow">Welding &amp; Metal Fabrication</a></p>
+<p><a href="learn-how-we-can-help.php" target="_self" class="with_arrow">Welding &amp; Metal Fabrication</a></p>
     </div>
 </div>
 

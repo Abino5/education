@@ -295,7 +295,7 @@
                 <a href="industries/water-and-wastewater-treatment.php" title="Water &amp; Wastewater Treatment" class="">Water & Wastewater Treatment</a>
             </li>
             <li>
-                <a href="industries/welding-and-metal-fabrication.php" title="Welding &amp; Metal Fabrication" class="">Welding & Metal Fabrication</a>
+                <a href="industries/learn-how-we-can-help.php" title="Welding &amp; Metal Fabrication" class="">Welding & Metal Fabrication</a>
             </li>
     </ul>
 </div>
@@ -678,7 +678,7 @@
                                     <h3><a href="industries/water-and-wastewater-treatment.php" title="Water &amp; Wastewater Treatment">Water & Wastewater Treatment</a></h3>
                                 </li>
                                 <li>
-                                    <h3><a href="industries/welding-and-metal-fabrication.php" title="Welding &amp; Metal Fabrication">Welding & Metal Fabrication</a></h3>
+                                    <h3><a href="industries/learn-how-we-can-help.php" title="Welding &amp; Metal Fabrication">Welding & Metal Fabrication</a></h3>
                                 </li>
                                 <li class="level2">
                                     <span><a href="http://www.airtecgulf.com/industries/welding-and-metal-fabrication/cutting-processes" title="Cutting Processes">Cutting Processes</a></span>

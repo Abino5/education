@@ -295,7 +295,7 @@
                 <a href="../industries/water-and-wastewater-treatment.php" title="Water &amp; Wastewater Treatment" class="">Water & Wastewater Treatment</a>
             </li>
             <li>
-                <a href="../industries/welding-and-metal-fabrication.php" title="Welding &amp; Metal Fabrication" class="">Welding & Metal Fabrication</a>
+                <a href="../industries/learn-how-we-can-help.php" title="Welding &amp; Metal Fabrication" class="">Welding & Metal Fabrication</a>
             </li>
     </ul>
 </div>
@@ -590,7 +590,7 @@ Industries                </a>
 
 <div class="content copy tab-row clearfix">
     <div>
-        <h2>            <a href="../industries/welding-and-metal-fabrication.php" title="Welding &amp; Metal Fabrication">Welding & Metal Fabrication</a>
+        <h2>            <a href="../industries/learn-how-we-can-help.php" title="Welding &amp; Metal Fabrication">Welding & Metal Fabrication</a>
 </h2>
         <p>Helium's inert properties at arc temperatures make it an ideal gas for welding materials with high heat conductivity such as aluminum, stainless steel, copper and magnesium alloys. Helium is also used in heat treating processes such as gas quenching and in furnace atmospheres to produce parts with higher tolerance and improved quality.</p>
     </div>

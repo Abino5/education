@@ -295,7 +295,7 @@
                 <a href="../industries/water-and-wastewater-treatment.php" title="Water &amp; Wastewater Treatment" class="">Water & Wastewater Treatment</a>
             </li>
             <li>
-                <a href="../industries/welding-and-metal-fabrication.php" title="Welding &amp; Metal Fabrication" class="">Welding & Metal Fabrication</a>
+                <a href="../industries/learn-how-we-can-help.php" title="Welding &amp; Metal Fabrication" class="">Welding & Metal Fabrication</a>
             </li>
     </ul>
 </div>
@@ -655,7 +655,7 @@ Industries                </a>
 
 <div class="content copy tab-row clearfix">
     <div>
-        <h2>            <a href="../industries/welding-and-metal-fabrication.php" title="Welding &amp; Metal Fabrication">Welding & Metal Fabrication</a>
+        <h2>            <a href="../industries/learn-how-we-can-help.php" title="Welding &amp; Metal Fabrication">Welding & Metal Fabrication</a>
 </h2>
         <p>In stainless steel tube welding, nitrogen is used as a purge gas. It is also used as an assist gas for laser cutting, and enhances plasma cutting.</p>
     </div>

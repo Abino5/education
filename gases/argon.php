@@ -295,7 +295,7 @@
                 <a href="../industries/water-and-wastewater-treatment.php" title="Water &amp; Wastewater Treatment" class="">Water & Wastewater Treatment</a>
             </li>
             <li>
-                <a href="../industries/welding-and-metal-fabrication.php" title="Welding &amp; Metal Fabrication" class="">Welding & Metal Fabrication</a>
+                <a href="../industries/learn-how-we-can-help.php" title="Welding &amp; Metal Fabrication" class="">Welding & Metal Fabrication</a>
             </li>
     </ul>
 </div>
@@ -598,7 +598,7 @@ Industries                </a>
 
 <div class="content copy tab-row clearfix">
     <div>
-        <h2>            <a href="../industries/welding-and-metal-fabrication.php" title="Welding &amp; Metal Fabrication">Welding & Metal Fabrication</a>
+        <h2>            <a href="../industries/learn-how-we-can-help.php" title="Welding &amp; Metal Fabrication">Welding & Metal Fabrication</a>
 </h2>
         <p>Argon is used to create an inert shield gas to enhance arc stability and characteristics of gas metal arc welding. It is also the primary gas for the Gas Tungsten Arc Welding (GTAW) process.</p>
     </div>

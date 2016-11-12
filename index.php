@@ -120,7 +120,7 @@
                             <h3>Education First Scholarships</h3>
                             <p>We provide college scholarships and coaching to students attending high schools with historically low percentages of college applicants.</p>
 
-    <a href='case-studies/making-our-planet-more-productive.php' class='pane-cta' target='Active Browser' >                                    <span class="text">Check Out our scholarships</span>
+    <a href='case-studies/scholarships.php' class='pane-cta' target='Active Browser' >                                    <span class="text">Check Out our scholarships</span>
                                         <span class="carrot">&gt;</span>
     </a>
                         </div>
@@ -135,7 +135,7 @@
                             <h3>Contribute to Education First</h3>
                             <p>Learn how you can volunteer, make a donation or sponsor a scholar.</p>
 
-    <a href='industries/welding-and-metal-fabrication.php' class='pane-cta' target='Active Browser' >                                    <span class="text">Learn how we can help</span>
+    <a href='industries/learn-how-we-can-help.php' class='pane-cta' target='Active Browser' >                                    <span class="text">Learn how we can help</span>
                                         <span class="carrot">&gt;</span>
     </a>
                         </div>

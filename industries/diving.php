@@ -295,7 +295,7 @@
                 <a href="water-and-wastewater-treatment.php" title="Water &amp; Wastewater Treatment" class="">Water & Wastewater Treatment</a>
             </li>
             <li>
-                <a href="welding-and-metal-fabrication.php" title="Welding &amp; Metal Fabrication" class="">Welding & Metal Fabrication</a>
+                <a href="learn-how-we-can-help.php" title="Welding &amp; Metal Fabrication" class="">Welding & Metal Fabrication</a>
             </li>
     </ul>
 </div>
@@ -518,7 +518,7 @@ Overview                </a>
         <p>See how we serve related industries.</p>
             <ul class="no-bullets">
             <li>
-                <a href="welding-and-metal-fabrication.php" title="Welding &amp; Metal Fabrication" class="with_arrow">Welding & Metal Fabrication</a>
+                <a href="learn-how-we-can-help.php" title="Welding &amp; Metal Fabrication" class="with_arrow">Welding & Metal Fabrication</a>
             </li>
     </ul>
 
