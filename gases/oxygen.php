@@ -69,7 +69,7 @@
     
 
     <div id="container">
-        <header id="header" class="loading">
+        <?php include '../header.php';?> <!-- <header id="header" class="loading">
             <div class="warnings-wrapper" data-warning-cookie="praxair-uae#dismiss-warn">
     
 
@@ -79,7 +79,7 @@
     <div class="row">
         <nav>
             <ul class="nav utility">
-<li><a href='../resource-library/safety-data-sheets.htm' target='Active Browser' >Safety Data Sheets</a></li><li><a href='../contact-us.htm' target='Active Browser' >Contact Us</a></li><li class="flyout-nav" data-mobile-nav-type="localization">
+<li><a href='../resource-library/safety-data-sheets.php' target='Active Browser' >Safety Data Sheets</a></li><li><a href='../contact-us.php' target='Active Browser' >Contact Us</a></li><li class="flyout-nav" data-mobile-nav-type="localization">
     <a href="javascript:;" class="trigger">
         <div class="flag"></div>
         United Arab Emirates
@@ -109,7 +109,7 @@
         <nav data-mobile-nav-type="menu-nav">
             <ul class="nav main clearfix">
 <li class="has-drop">
-    <a href='../gases.htm' target='Active Browser' >Gases</a>
+    <a href='../../about-us.php' target='Active Browser' >Gases</a>
 
     <div class="mm-drop sub-gases">
         <div class="mm-drop-container">
@@ -121,28 +121,13 @@
     
     <ul>
             <li>
-                <a href="acetylene.htm" title="Acetylene" class="">Acetylene</a>
+                <a href="acetylene.php" title="Acetylene" class="">Acetylene</a>
             </li>
             <li>
-                <a href="argon.htm" title="Argon" class="">Argon</a>
+                <a href="argon.php" title="Argon" class="">Argon</a>
             </li>
             <li>
-                <a href="carbon-dioxide.htm" title="Carbon Dioxide" class="">Carbon Dioxide</a>
-            </li>
-    </ul>
-</div>
-
-<div class="menu-col ">
-    
-    <ul>
-            <li>
-                <a href="dry-ice.htm" title="Dry Ice" class="">Dry Ice</a>
-            </li>
-            <li>
-                <a href="helium.htm" title="Helium" class="">Helium</a>
-            </li>
-            <li>
-                <a href="hydrogen.htm" title="Hydrogen" class="">Hydrogen</a>
+                <a href="carbon-dioxide.php" title="Carbon Dioxide" class="">Carbon Dioxide</a>
             </li>
     </ul>
 </div>
@@ -151,10 +136,25 @@
     
     <ul>
             <li>
-                <a href="nitrogen.htm" title="Nitrogen" class="">Nitrogen</a>
+                <a href="dry-ice.php" title="Dry Ice" class="">Dry Ice</a>
             </li>
             <li>
-                <a href="oxygen.htm" title="Oxygen" class="">Oxygen</a>
+                <a href="helium.php" title="Helium" class="">Helium</a>
+            </li>
+            <li>
+                <a href="hydrogen.php" title="Hydrogen" class="">Hydrogen</a>
+            </li>
+    </ul>
+</div>
+
+<div class="menu-col ">
+    
+    <ul>
+            <li>
+                <a href="nitrogen.php" title="Nitrogen" class="">Nitrogen</a>
+            </li>
+            <li>
+                <a href="oxygen.php" title="Oxygen" class="">Oxygen</a>
             </li>
     </ul>
 </div>
@@ -163,16 +163,16 @@
     
     <ul>
             <li>
-                <a href="../gases.htm" title="All Gases" class="with_arrow">All Gases</a>
+                <a href="../../about-us.php" title="All Gases" class="with_arrow">All Gases</a>
             </li>
             <li>
-                <a href="gas-handling-equipment.htm" title="Gas Handling Equipment" class="with_arrow">Gas Handling Equipment</a>
+                <a href="gas-handling-equipment.php" title="Gas Handling Equipment" class="with_arrow">Gas Handling Equipment</a>
             </li>
             <li>
-                <a href="gas-mixtures.htm" title="Gas Mixtures" class="with_arrow">Gas Mixtures</a>
+                <a href="gas-mixtures.php" title="Gas Mixtures" class="with_arrow">Gas Mixtures</a>
             </li>
             <li>
-                <a href="../resource-library/safety-data-sheets.htm" title="SDS" class="with_arrow">SDS</a>
+                <a href="../resource-library/safety-data-sheets.php" title="SDS" class="with_arrow">SDS</a>
             </li>
     </ul>
 </div>
@@ -194,32 +194,32 @@
         </div>
     </div>
 </li><li class="has-drop">
-    <a href='../services.htm' target='Active Browser' >Services</a>
+    <a href='../services.php' target='Active Browser' >Services</a>
 
     <div class="mm-drop">
         <div class="mm-drop-container  ">
             <div class="menu-cols-wrap">
                 <div class="menu-cols col-three">
 <div class="menu-col">
-  <h4><a href='../services/industrial-gas-supply-and-management.htm' target='Active Browser' >Gas Supply &amp; Management</a></h4>
+  <h4><a href='../services/donate.php' target='Active Browser' >Gas Supply &amp; Management</a></h4>
   <p>Our production facilities, wide variety of gas and process management programs, and delivery systems are all designed to help get you the gas you need, when and how you need it.</p>
 </div>
 <div class="menu-col">
-  <h4><a href='../services/industrial-services.htm' target='Active Browser' >Industrial Services</a></h4>
+  <h4><a href='../services/sponsor-a-scholar.php' target='Active Browser' >Industrial Services</a></h4>
   <p>Our services are extensive and include cleaning, purging, drying, displacing, leak detection, hydrotesting and inspection for piping and storage tanks.</p>
 </div>
 <div class="menu-col">
-  <h4><a href='../industries/oil-and-gas.htm' target='Active Browser' >Oil &amp; Gas Services</a></h4>
+  <h4><a href='../industries/become-a-volunteer.php' target='Active Browser' >Oil &amp; Gas Services</a></h4>
   <p>We offer a number of gas injection services from full pilot projects to well stimulation, to increase the output of your oil and gas wells.</p>
 </div>
                 </div>
             </div>
         </div>
         <div class="mm-landing-link">
-<a href='../services.htm' target='Active Browser' >Services Overview</a>        </div>
+<a href='../services.php' target='Active Browser' >Services Overview</a>        </div>
     </div>
 </li><li class="has-drop">
-    <a href='../industries.htm' target='Active Browser' >Industries</a>
+    <a href='../scholarships.php' target='Active Browser' >Industries</a>
 
     <div class="mm-drop">
         <div class="mm-drop-container  ">
@@ -229,37 +229,19 @@
     
     <ul>
             <li>
-                <a href="../industries/aerospace-and-aircraft.htm" title="Aerospace &amp; Aircraft" class="">Aerospace & Aircraft</a>
+                <a href="../industries/evaluation-criteria.php" title="Aerospace &amp; Aircraft" class="">Aerospace & Aircraft</a>
             </li>
             <li>
-                <a href="../industries/automotive-fabrication.htm" title="Automotive Fabrication" class="">Automotive Fabrication</a>
+                <a href="../industries/apply-for-scholarship.php" title="Automotive Fabrication" class="">Automotive Fabrication</a>
             </li>
             <li>
-                <a href="../industries/chemicals.htm" title="Chemicals" class="">Chemicals</a>
+                <a href="../industries/application-timeline.php" title="Chemicals" class="">Chemicals</a>
             </li>
             <li>
-                <a href="../industries/diving.htm" title="Diving" class="">Diving</a>
+                <a href="../industries/request-scholarship-payment.php" title="Diving" class="">Diving</a>
             </li>
             <li>
-                <a href="../industries/electronics.htm" title="Electronics" class="">Electronics</a>
-            </li>
-    </ul>
-</div>
-
-<div class="menu-col ">
-    
-    <ul>
-            <li>
-                <a href="../industries/energy.htm" title="Energy" class="">Energy</a>
-            </li>
-            <li>
-                <a href="../industries/food-and-beverage.htm" title="Food &amp; Beverage" class="">Food & Beverage</a>
-            </li>
-            <li>
-                <a href="../industries/glass.htm" title="Glass" class="">Glass</a>
-            </li>
-            <li>
-                <a href="../industries/healthcare-and-medical.htm" title="Healthcare" class="">Healthcare</a>
+                <a href="../industries/electronics.php" title="Electronics" class="">Electronics</a>
             </li>
     </ul>
 </div>
@@ -268,16 +250,16 @@
     
     <ul>
             <li>
-                <a href="../industries/laboratories.htm" title="Laboratories" class="">Laboratories</a>
+                <a href="../industries/energy.php" title="Energy" class="">Energy</a>
             </li>
             <li>
-                <a href="../industries/metal-production.htm" title="Metal Production" class="">Metal Production</a>
+                <a href="../industries/food-and-beverage.php" title="Food &amp; Beverage" class="">Food & Beverage</a>
             </li>
             <li>
-                <a href="../industries/oil-and-gas.htm" title="Oil &amp; Gas" class="">Oil & Gas</a>
+                <a href="../industries/glass.php" title="Glass" class="">Glass</a>
             </li>
             <li>
-                <a href="../industries/pharmaceuticals-and-biotechnology.htm" title="Pharmaceuticals &amp; Biotechnology" class="">Pharmaceuticals & Biotechnology</a>
+                <a href="../industries/healthcare-and-medical.php" title="Healthcare" class="">Healthcare</a>
             </li>
     </ul>
 </div>
@@ -286,16 +268,34 @@
     
     <ul>
             <li>
-                <a href="../industries/pulp-and-paper.htm" title="Pulp &amp; Paper" class="">Pulp & Paper</a>
+                <a href="../industries/laboratories.php" title="Laboratories" class="">Laboratories</a>
             </li>
             <li>
-                <a href="../industries/refining.htm" title="Refining" class="">Refining</a>
+                <a href="../industries/metal-production.php" title="Metal Production" class="">Metal Production</a>
             </li>
             <li>
-                <a href="../industries/water-and-wastewater-treatment.htm" title="Water &amp; Wastewater Treatment" class="">Water & Wastewater Treatment</a>
+                <a href="../industries/become-a-volunteer.php" title="Oil &amp; Gas" class="">Oil & Gas</a>
             </li>
             <li>
-                <a href="../industries/welding-and-metal-fabrication.htm" title="Welding &amp; Metal Fabrication" class="">Welding & Metal Fabrication</a>
+                <a href="../industries/pharmaceuticals-and-biotechnology.php" title="Pharmaceuticals &amp; Biotechnology" class="">Pharmaceuticals & Biotechnology</a>
+            </li>
+    </ul>
+</div>
+
+<div class="menu-col ">
+    
+    <ul>
+            <li>
+                <a href="../industries/pulp-and-paper.php" title="Pulp &amp; Paper" class="">Pulp & Paper</a>
+            </li>
+            <li>
+                <a href="../industries/refining.php" title="Refining" class="">Refining</a>
+            </li>
+            <li>
+                <a href="../industries/water-and-wastewater-treatment.php" title="Water &amp; Wastewater Treatment" class="">Water & Wastewater Treatment</a>
+            </li>
+            <li>
+                <a href="../industries/welding-and-metal-fabrication.php" title="Welding &amp; Metal Fabrication" class="">Welding & Metal Fabrication</a>
             </li>
     </ul>
 </div>
@@ -304,10 +304,10 @@
             </div>
         </div>
         <div class="mm-landing-link">
-<a href='../industries.htm' target='Active Browser' >Industries Overview</a>        </div>
+<a href='../scholarships.php' target='Active Browser' >Industries Overview</a>        </div>
     </div>
 </li><li class="has-drop">
-    <a href='../careers.htm' target='Active Browser' >Careers</a>
+    <a href='../news.php' target='Active Browser' >Careers</a>
 
     <div class="mm-drop">
         <div class="mm-drop-container">
@@ -321,10 +321,10 @@
                 <div class="menu-cols-wrap">
                     <div class="menu-cols col-two">
                             <div class="menu-col">
-                                <h4><a href='../careers/why-work-at-airtec.htm' target='Active Browser' >Why Work at Airtec</a></h4>
+                                <h4><a href='../careers/why-work-at-airtec.php' target='Active Browser' >Why Work at Airtec</a></h4>
                                 <ul>
-                                        <li><a href="../careers/why-work-at-airtec/career-areas.htm" title="Career Areas">Career Areas</a></li>
-                                        <li><a href="../careers/why-work-at-airtec/culture.htm" title="Culture">Culture</a></li>
+                                        <li><a href="../careers/why-work-at-airtec/career-areas.php" title="Career Areas">Career Areas</a></li>
+                                        <li><a href="../careers/why-work-at-airtec/culture.php" title="Culture">Culture</a></li>
                                 </ul>
                             </div>
                             <div class="menu-col">
@@ -337,60 +337,60 @@
             </div>
         </div>
         <div class="mm-landing-link">
-<a href='../careers.htm' target='Active Browser' >Careers Overview</a>        </div>
+<a href='../news.php' target='Active Browser' >Careers Overview</a>        </div>
     </div>
 </li><li class="has-drop">
-    <a href='../our-company.htm' target='Active Browser' >Our Company</a>
+    <a href='../events.php' target='Active Browser' >Our Company</a>
 
     <div class="mm-drop">
         <div class="mm-drop-container  ">
             <div class="menu-cols-wrap">
                 <div class="menu-cols col-five">
 <div class="menu-col">
-  <h4><a href='../our-company/vision-and-values.htm' target='Active Browser' >Vision &amp; Values</a></h4>
+  <h4><a href='../our-company/vision-and-values.php' target='Active Browser' >Vision &amp; Values</a></h4>
   <p>Our vision is to meet local industrial and specialty gas demands, to ensure the health and safety of our employees, contractors, suppliers, customers, visitors and community, to assure the quality of our products and services and to protect the environment.</p>
 </div>
 <div class="menu-col ">
-            <h4><a href='../our-company/suppliers.htm' target='Active Browser' >Suppliers</a></h4>
+            <h4><a href='../our-company/suppliers.php' target='Active Browser' >Suppliers</a></h4>
 
     <ul>
             <li>
-                <a href="../our-company/suppliers/what-we-buy.htm" title="What We Buy" class="">What We Buy</a>
+                <a href="../our-company/suppliers/what-we-buy.php" title="What We Buy" class="">What We Buy</a>
             </li>
             <li>
-                <a href="../our-company/suppliers/expectations.htm" title="Expectations" class="">Expectations</a>
+                <a href="../our-company/suppliers/expectations.php" title="Expectations" class="">Expectations</a>
             </li>
             <li>
-                <a href="../our-company/suppliers/supply-chain-transparency.htm" title="Supply Chain Transparency" class="">Supply Chain Transparency</a>
+                <a href="../our-company/suppliers/supply-chain-transparency.php" title="Supply Chain Transparency" class="">Supply Chain Transparency</a>
             </li>
     </ul>
 </div>
 
 <div class="menu-col ">
-            <h4><a href='../our-company/our-people.htm' target='Active Browser' >Our People</a></h4>
+            <h4><a href='../our-company/our-people.php' target='Active Browser' >Our People</a></h4>
 
     <ul>
             <li>
-                <a href="../our-company/our-people/our-executives.htm" title="Our Executives" class="">Our Executives</a>
+                <a href="../our-company/our-people/our-executives.php" title="Our Executives" class="">Our Executives</a>
             </li>
             <li>
-                <a href="../our-company/our-people/middle-east-and-north-africa-diversity-and-inclusion.htm" title="MENA Diversity and Inclusion" class="">MENA Diversity and Inclusion</a>
+                <a href="../our-company/our-people/middle-east-and-north-africa-diversity-and-inclusion.php" title="MENA Diversity and Inclusion" class="">MENA Diversity and Inclusion</a>
             </li>
             <li>
-                <a href="../our-company/our-people/global-giving.htm" title="Global Giving" class="">Global Giving</a>
+                <a href="../our-company/our-people/global-giving.php" title="Global Giving" class="">Global Giving</a>
             </li>
     </ul>
 </div>
 
 <div class="menu-col ">
-            <h4><a href='../our-company/safety-and-environment.htm' target='Active Browser' >Safety &amp; Environment</a></h4>
+            <h4><a href='../our-company/safety-and-environment.php' target='Active Browser' >Safety &amp; Environment</a></h4>
 
     <ul>
     </ul>
 </div>
 
 <div class="menu-col ">
-            <h4><a href='../our-company/sustainable-development.htm' target='Active Browser' >Sustainable Development</a></h4>
+            <h4><a href='../our-company/sustainable-development.php' target='Active Browser' >Sustainable Development</a></h4>
 
     <ul>
     </ul>
@@ -400,7 +400,7 @@
             </div>
         </div>
         <div class="mm-landing-link">
-<a href='../our-company.htm' target='Active Browser' >Our Company Overview</a>        </div>
+<a href='../events.php' target='Active Browser' >Our Company Overview</a>        </div>
     </div>
 </li>            </ul>
         </nav>
@@ -413,7 +413,7 @@
                         <a href="../index.php" title="Home">Home</a>
                     </li>
                     <li>
-                        <a href="../gases.htm" title="All Gases">All Gases</a>
+                        <a href="../../about-us.php" title="All Gases">All Gases</a>
                     </li>
                 <li class="current">
                     <span>Oxygen</span>
@@ -422,7 +422,7 @@
         </div>
     </div>
 </div>
-        </header>
+        </header>-->
 
         <div id="main">
             
@@ -570,7 +570,7 @@ Industries                </a>
 </div>
 <div class="content copy tab-row clearfix">
     <div>
-        <h2>            <a href="../industries/aerospace-and-aircraft.htm" title="Aerospace &amp; Aircraft">Aerospace & Aircraft</a>
+        <h2>            <a href="../industries/evaluation-criteria.php" title="Aerospace &amp; Aircraft">Aerospace & Aircraft</a>
 </h2>
         <p>Our liquid oxygen has prepared and launched many bipropellant vehicles since the early 1960&rsquo;s. We also supply gaseous oxygen to support rocket fuel combustion.</p>
     </div>
@@ -578,7 +578,7 @@ Industries                </a>
 
 <div class="content copy tab-row clearfix">
     <div>
-        <h2>            <a href="../industries/automotive-fabrication.htm" title="Automotive Fabrication">Automotive Fabrication</a>
+        <h2>            <a href="../industries/apply-for-scholarship.php" title="Automotive Fabrication">Automotive Fabrication</a>
 </h2>
         <p>Oxygen is used as a plasma cutting gas, an assist gas for laser cutting, and is sometimes added in small quantities to shielding gases.</p>
     </div>
@@ -586,7 +586,7 @@ Industries                </a>
 
 <div class="content copy tab-row clearfix">
     <div>
-        <h2>            <a href="../industries/chemicals.htm" title="Chemicals">Chemicals</a>
+        <h2>            <a href="../industries/application-timeline.php" title="Chemicals">Chemicals</a>
 </h2>
         <p>In its purest form, oxygen is used in many important chemicals such as ethylene oxide and titanium dioxide. It is also used to increase the production capacity of oxidation processes.</p>
     </div>
@@ -594,7 +594,7 @@ Industries                </a>
 
 <div class="content copy tab-row clearfix">
     <div>
-        <h2>            <a href="../industries/energy.htm" title="Energy">Energy</a>
+        <h2>            <a href="../industries/energy.php" title="Energy">Energy</a>
 </h2>
         <p>Using oxygen in the place of air can increase performance and capital efficiency in many industries and can enable carbon capture processes. It is often used in boilers and process heaters, industrial fermenters and gasification processes to improve productivity.</p>
     </div>
@@ -602,7 +602,7 @@ Industries                </a>
 
 <div class="content copy tab-row clearfix">
     <div>
-        <h2>            <a href="../industries/glass.htm" title="Glass">Glass</a>
+        <h2>            <a href="../industries/glass.php" title="Glass">Glass</a>
 </h2>
         <p>An industrial gas with the power to improve productivity, oxygen is used to enhance combustion in glass furnaces, and reduce NOx emissions.</p>
     </div>
@@ -610,7 +610,7 @@ Industries                </a>
 
 <div class="content copy tab-row clearfix">
     <div>
-        <h2>            <a href="../industries/healthcare-and-medical.htm" title="Healthcare">Healthcare</a>
+        <h2>            <a href="../industries/healthcare-and-medical.php" title="Healthcare">Healthcare</a>
 </h2>
         <p>We are a long time provider of USP grade oxygen and bulk oxygen storage equipment to medical facilities, frequently used to aid in the treatment and prevention of hypoxemia and hypoxia.</p>
     </div>
@@ -618,7 +618,7 @@ Industries                </a>
 
 <div class="content copy tab-row clearfix">
     <div>
-        <h2>            <a href="../industries/metal-production.htm" title="Metal Production">Metal Production</a>
+        <h2>            <a href="../industries/metal-production.php" title="Metal Production">Metal Production</a>
 </h2>
         <p>As an industrial gas, oxygen is used to replace or enrich air, ultimately increasing combustion efficiency in both ferrous and non-ferrous metal production.</p>
     </div>
@@ -626,7 +626,7 @@ Industries                </a>
 
 <div class="content copy tab-row clearfix">
     <div>
-        <h2>            <a href="../industries/pharmaceuticals-and-biotechnology.htm" title="Pharmaceutical &amp; Biotechnology">Pharmaceutical & Biotechnology</a>
+        <h2>            <a href="../industries/pharmaceuticals-and-biotechnology.php" title="Pharmaceutical &amp; Biotechnology">Pharmaceutical & Biotechnology</a>
 </h2>
         <p>Critical for cell growth applications, oxygen is used in fermenters and bioreactors.</p>
     </div>
@@ -634,7 +634,7 @@ Industries                </a>
 
 <div class="content copy tab-row clearfix">
     <div>
-        <h2>            <a href="../industries/pulp-and-paper.htm" title="Pulp &amp; Paper">Pulp & Paper</a>
+        <h2>            <a href="../industries/pulp-and-paper.php" title="Pulp &amp; Paper">Pulp & Paper</a>
 </h2>
         <p>As an industrial gas, oxygen helps you meet stringent environmental regulations through use in delignification, oxidative extraction and wastewater treatment.</p>
     </div>
@@ -642,7 +642,7 @@ Industries                </a>
 
 <div class="content copy tab-row clearfix">
     <div>
-        <h2>            <a href="../industries/refining.htm" title="Refining">Refining</a>
+        <h2>            <a href="../industries/refining.php" title="Refining">Refining</a>
 </h2>
         <p>Oxygen is widely used in refineries to increase the capacity of Fluid Catalytic Cracking (FCC) plants and Sulfur Recovery Units (SRU), and to improve wastewater treatment operations.</p>
     </div>
@@ -650,7 +650,7 @@ Industries                </a>
 
 <div class="content copy tab-row clearfix">
     <div>
-        <h2>            <a href="../industries/water-and-wastewater-treatment.htm" title="Water &amp; Wastewater Treatment">Water & Wastewater Treatment</a>
+        <h2>            <a href="../industries/water-and-wastewater-treatment.php" title="Water &amp; Wastewater Treatment">Water & Wastewater Treatment</a>
 </h2>
         <p>Used as an industrial gas, oxygen can supplement or even replace air in the aeration basin to maximize treatment capacity, minimize VOC emissions, reduce odor and foam, and increase flexibility. It is also used as a feed gas to generate ozone for water disinfection.</p>
     </div>
@@ -658,7 +658,7 @@ Industries                </a>
 
 <div class="content copy tab-row clearfix">
     <div>
-        <h2>            <a href="../industries/welding-and-metal-fabrication.htm" title="Welding &amp; Metal Fabrication">Welding & Metal Fabrication</a>
+        <h2>            <a href="../industries/welding-and-metal-fabrication.php" title="Welding &amp; Metal Fabrication">Welding & Metal Fabrication</a>
 </h2>
         <p>Oxygen is used as a plasma cutting gas, an assist gas for laser cutting, and is sometimes added in small quantities to shielding gases.</p>
     </div>
@@ -668,10 +668,10 @@ Industries                </a>
     <div>
         <h2></h2>
         <p>Explore other industries that use oxygen.</p>
-<p><a href="../industries/diving.htm" target="_self" class="with_arrow">Diving</a><br>
-<a href="../industries/electronics.htm" target="_self" class="with_arrow">Electronics</a><br>
-<a href="../industries/food-and-beverage.htm" target="_self" class="with_arrow">Food &amp; Beverage</a><br>
-<a href="../industries/laboratories.htm" target="_self" class="with_arrow">Laboratories</a></p>
+<p><a href="../industries/request-scholarship-payment.php" target="_self" class="with_arrow">Diving</a><br>
+<a href="../industries/electronics.php" target="_self" class="with_arrow">Electronics</a><br>
+<a href="../industries/food-and-beverage.php" target="_self" class="with_arrow">Food &amp; Beverage</a><br>
+<a href="../industries/laboratories.php" target="_self" class="with_arrow">Laboratories</a></p>
     </div>
 </div>
 
@@ -756,7 +756,7 @@ Supply Options                </a>
         <ul>
             <li>
                 <p class="tele-number">+965 1 844844</p>
-                    <p><a href='../contact-us.htm' class='with_arrow' target='Active Browser' >Airtec contact information</a></p>
+                    <p><a href='../contact-us.php' class='with_arrow' target='Active Browser' >Airtec contact information</a></p>
                             </li>
         </ul>
 
@@ -805,7 +805,7 @@ Supply Options                </a>
                     </h3>
                     <ul>
                             <li>
-                                <a href='../resource-library/safety-data-sheets.htm' target='Active Browser' >Safety Data Sheets</a>
+                                <a href='../resource-library/safety-data-sheets.php' target='Active Browser' >Safety Data Sheets</a>
                             </li>
                     </ul>
                 </div>
@@ -819,13 +819,13 @@ Supply Options                </a>
                 <span>Copyright 2014-2016 Praxair Technology, Inc. and Refrigeration & Oxygen Co. Ltd. LLC. All rights reserved.<script>j$('a:contains(<)').each(function(){ j$(this).php(j$.parseHTML(j$(this).text())); });</script></span>
                 <ul>
                         <li>
-                            <a href='../legal-notice.htm' target='Active Browser' >Legal Notice</a>
+                            <a href='../legal-notice.php' target='Active Browser' >Legal Notice</a>
                         </li>
                         <li>
-                            <a href='../privacy-statement.htm' target='Active Browser' >Privacy Statement</a>
+                            <a href='../privacy-statement.php' target='Active Browser' >Privacy Statement</a>
                         </li>
                         <li>
-                            <a href='../sitemap.htm' target='Active Browser' >Site map</a>
+                            <a href='../sitemap.php' target='Active Browser' >Site map</a>
                         </li>
                 </ul>
             </div>

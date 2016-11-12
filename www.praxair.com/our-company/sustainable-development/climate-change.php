@@ -79,7 +79,7 @@
     
 
     <div id="container">
-        <header id="header" class="loading">
+        <?php include 'header.php';?> <!-- <header id="header" class="loading">
             <div class="warnings-wrapper" data-warning-cookie="praxairus#dismiss-warn">
     
 
@@ -520,7 +520,7 @@
                 <a href="http://www.praxair.com/our-company/our-people/environmental-engagement" title="Environmental Engagement" class="">Environmental Engagement</a>
             </li>
             <li>
-                <a href="../our-people/global-giving.htm" title="Global Giving" class="">Global Giving</a>
+                <a href="../our-people/global-giving.php" title="Global Giving" class="">Global Giving</a>
             </li>
     </ul>
 </div>
@@ -558,7 +558,7 @@
                 <a href="http://www.praxair.com/our-company/sustainable-development/targets-and-performance" title="Targets &amp; Performance" class="">Targets & Performance</a>
             </li>
             <li>
-                <a href="climate-change.htm" title="Climate Change" class="">Climate Change</a>
+                <a href="climate-change.php" title="Climate Change" class="">Climate Change</a>
             </li>
             <li>
                 <a href="http://www.praxair.com/our-company/sustainable-development/engaging-stakeholders" title="Engaging Stakeholders" class="">Engaging Stakeholders</a>
@@ -567,7 +567,7 @@
                 <a href="http://www.praxair.com/our-company/sustainable-development/reporting-center" title="Reporting Center" class="">Reporting Center</a>
             </li>
             <li>
-                <a href="recognition.htm" title="Recognition" class="">Recognition</a>
+                <a href="recognition.php" title="Recognition" class="">Recognition</a>
             </li>
     </ul>
 </div>
@@ -601,7 +601,7 @@
         </div>
     </div>
 </div>
-        </header>
+        </header>-->
 
         <div id="main">
             
@@ -835,7 +835,7 @@ It is our goal to continue to provide environmental and energy savings to our cu
                 <span>Copyright 2013-2016 Praxair Technology, Inc. All rights reserved.<script>j$('a:contains(<)').each(function(){ j$(this).php(j$.parseHTML(j$(this).text())); });</script></span>
                 <ul>
                         <li>
-                            <a href='../../legal-notice.htm' target='Active Browser' >Legal Notice</a>
+                            <a href='../../legal-notice.php' target='Active Browser' >Legal Notice</a>
                         </li>
                         <li>
                             <a href='http://www.praxair.com/privacy-statement' target='Active Browser' >Privacy Statement</a>

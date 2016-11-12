@@ -69,7 +69,7 @@
     
 
     <div id="container">
-        <header id="header" class="loading">
+        <?php include '../header.php';?> <!-- <header id="header" class="loading">
             <div class="warnings-wrapper" data-warning-cookie="praxair-uae#dismiss-warn">
     
 
@@ -422,7 +422,7 @@
         </div>
     </div>
 </div>
-        </header>
+        </header>-->
 
         <div id="main">
             

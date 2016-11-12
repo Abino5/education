@@ -187,7 +187,7 @@
 
 	<div id="main" class="main" role="main">
 
-		<header class="section section-hero" data-analytics-section-engagement="name:hero">
+		<?php include 'header.php';?> <!-- <header class="section section-hero" data-analytics-section-engagement="name:hero">
 			<div class="section-content">
 				<div class="section-block row section-block--last">
 					<figure class="image-safari-icon"></figure>
@@ -198,7 +198,7 @@
 					<figure class="image-safari-hero section-hero-image"></figure>
 				</div>
 			</div>
-		</header>
+		</header>-->
 
 		<section class="section section-efficient background-alt" data-analytics-section-engagement="name:efficient">
 			<div class="section-content">

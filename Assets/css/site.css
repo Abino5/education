@@ -2743,7 +2743,7 @@ a.fancybox-video img {
 	transition:opacity .1s
 }
 #header.loading {
-	opacity:0
+	opacity:1;
 }
 #header .mobile-menu {
 	display:none
@@ -3309,7 +3309,7 @@ a.fancybox-video img {
 	-webkit-box-shadow:0 8px 15px 0 rgba(0,0,0,.13);
 	-moz-box-shadow:0 8px 15px 0 rgba(0,0,0,.13);
 	box-shadow:0 8px 15px 0 rgba(0,0,0,.13);
-	top: 11vh;
+	top: 8vh;
 	display: none;
 }
 .lt-ie9 .mm-drop {

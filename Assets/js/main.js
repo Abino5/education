@@ -9,6 +9,13 @@ $(this).find('.mm-drop').css('display', 'block');
         $(this).find('.mm-drop').css('display', 'none');
     });
     $(document).on('click', 'a', function(e){
-        e.preventDefault();
+        var data = $(this).attr('href');
+        if (data =='gases.php' || data=='contact-us.php'){
+
+        }
+        else{
+           // e.preventDefault();
+
+        }
     });
 });
